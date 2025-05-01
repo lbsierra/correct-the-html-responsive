@@ -181,4 +181,10 @@ hr {
 		border-radius: 0.6rem;
 		margin: 0;
 	}
+
+	.two-column {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+	}
 }
